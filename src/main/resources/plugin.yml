@@ -1,0 +1,4 @@
+name: EquipmentChange
+version: '${project.version}'
+main: me.perpltxed.equipmentchange.EquipmentChange
+api-version: 1.19
