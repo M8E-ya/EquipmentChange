@@ -6,7 +6,6 @@ public class EquipmentChange extends JavaPlugin {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new PlayerJoinListener(this), this);
-
     }
 
     @Override
